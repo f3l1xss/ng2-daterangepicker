@@ -30,7 +30,7 @@
   ],
   "main": "./index.js",
   "types": "./index.d.ts",
-  "dependencies": {
+  "peerDependencies": {
     "@types/jquery": "^3.2.12",
     "bootstrap-daterangepicker": "^2.1.25",
     "jquery": "^3.1.1",
